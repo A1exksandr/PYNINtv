@@ -1,6 +1,6 @@
 from PyQt5.QtCore import QTime
 
-
+#пасхалка
 win_x, win_y = 100, 100
 win_width, win_height = 1000, 600
 
